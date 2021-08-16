@@ -168,7 +168,8 @@ ul:hover {
   display: flex;
   justify-content: flex-end;
   flex-direction: column;
-  color: #33b1ff;
+  /* color: #33b1ff; */
+  color: whitesmoke;
 }
 
 .carousel-item__details img {
