@@ -168,6 +168,7 @@ ul:hover {
   display: flex;
   justify-content: flex-end;
   flex-direction: column;
+  color: #33b1ff;
 }
 
 .carousel-item__details img {
@@ -294,5 +295,9 @@ body {
   .notfound .notfound-404 h1 > span {
     width: 86px;
     height: 86px;
+  }
+  .footer a {
+    text-align: center;
+    padding: 1px;
   }
 }
