@@ -1,11 +1,11 @@
 body {
   margin: 0px;
   font-family: 'Muli', sans-serif;
-  background-color: #8f57fd;
+  background-color: #121f3d;
 }
 
 .header {
-  background-color: #8f57fd;
+  background-color: #121f3d;
   width: 100%;
   height: 80px;
   display: flex;
@@ -183,7 +183,7 @@ ul:hover {
   color: white;
 }
 .footer {
-  background-color: #8f57fd;
+  background-color: #121f3d;
   display: flex;
   align-items: center;
   height: 100px;
@@ -201,21 +201,21 @@ ul:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #8f57fd;
+  background: #121f3d;
   border-radius: 4px;
 }
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
-  background: #8f57fd;
+  background: #121f3d;
   border-radius: 4px;
 }
 ::-webkit-scrollbar:hover {
-  background: #8f57fd;
-  box-shadow: 0 0 2px 1px #8f57fd;
+  background: #121f3d;
+  box-shadow: 0 0 2px 1px #121f3d;
 }
 ::-webkit-scrollbar:hover:active {
-  background: #8f57fd;
+  background: #121f3d;
 }
 body {
   background-color: #121f3d;
