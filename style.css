@@ -296,8 +296,10 @@ body {
     width: 86px;
     height: 86px;
   }
-  .footer a {
-    text-align: center;
-    padding: 1px;
+  .footer {
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 2px;
+    justify-content: space-evenly;
   }
 }
