@@ -169,7 +169,7 @@ ul:hover {
   justify-content: flex-end;
   flex-direction: column;
   /* color: #33b1ff; */
-  color: whitesmoke;
+  color: whitesmoke !important;
 }
 
 .carousel-item__details img {
